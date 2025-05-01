@@ -1,0 +1,10 @@
+{
+  "name": "Simple Cloud Bomb-Editor",
+  "references": [
+    "Simple Cloud Bomb"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
